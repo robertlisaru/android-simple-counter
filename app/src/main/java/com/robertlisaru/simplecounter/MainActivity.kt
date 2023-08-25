@@ -18,5 +18,12 @@ class MainActivity : AppCompatActivity() {
             counterValue++
             counter.text = counterValue.toString()
         }
+
+        counter.setOnLongClickListener {
+            counterValue = 0
+            counter.text = counterValue.toString()
+            true
+        }
     }
 }
+
