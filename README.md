@@ -1,5 +1,5 @@
 ## android-simple-counter
-The most basic android app you can think of: tap the screen, increment a counter. 
+The most basic android app you can think of: tap the screen and increment a counter. 
 
 <img src="https://github.com/robertlisaru/android-simple-counter/assets/40792547/4618c561-462e-4007-bab6-f365d858b64a" width=200px/>
 
